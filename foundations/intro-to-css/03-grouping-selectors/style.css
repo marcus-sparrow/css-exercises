@@ -1,0 +1,12 @@
+.first-ele,
+.second-ele {
+    font-size:28px;
+    font-family:'Helvetica' 'Times New Roman' 'sans-serif';
+}
+.first-ele{
+background-color: black;
+color:white ;
+}
+.second-ele{
+background-color:yellow;
+}
